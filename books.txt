@@ -1,0 +1,28 @@
+## For those less comfortable
+
+C Programming Absoute Beginner's Guide, Third Edition
+Greg Perry, Dean Miller
+Pearson Education, 2014
+ISBN 0-789-75198-4
+
+## For those more comfortable
+
+Programming in C, Fourth Edition
+Stephen G. Kochan
+Pearson Education, 2015
+ISBN 0-321-77641-0
+
+## The book below is recommended for those interested in understanding how their own computers work for personal edification.
+
+How Computers Work, Ninth Edition
+Ron White
+Que Publishing, 2008
+ISBN 0-7897-3613-6
+
+## This last book below is recommended for aspiring hackers, those interested in programming techniques and low-level optimization of code for applications beyond the scope of this course.
+
+Hacker’s Delight, Second Edition
+Henry S. Warren Jr.
+Pearson Education, 2013
+ISBN 0-321-84268-5
+
